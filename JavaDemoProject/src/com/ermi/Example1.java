@@ -12,6 +12,7 @@ public class Example1 {
     System.out.println("Hello Ermias");
     System.out.println("Hello Ermias");
     System.out.println("Hello Ermias");
+    System.out.println("Hello Ermias");
 	}
 
 }
