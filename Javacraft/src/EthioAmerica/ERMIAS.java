@@ -7,5 +7,7 @@ public class ERMIAS {
 		System.out.println("Ethiopia Ethiopia Ethiopia");
 		System.out.println("Ethiopia Ethiopia Ethiopia");
 		System.out.println("Ethiopia Ethiopia Ethiopia");
+		System.out.println("Ethiopia Ethiopia Ethiopia");
+		System.out.println("Ethiopia Ethiopia Ethiopia");
 }
 }
